@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name : Shehan Shajahan
-# Roll no : 212223240154
+# Name : Logesh B
+# Roll no : 212224110034
 # Date of experiment : 30/08/2025
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
